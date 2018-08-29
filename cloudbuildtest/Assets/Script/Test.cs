@@ -13,6 +13,7 @@ public class Test : MonoBehaviour {
         {
             a++;
             a++;
+            a++;
             m_Text.text = a.ToString();
         }));
 	}
